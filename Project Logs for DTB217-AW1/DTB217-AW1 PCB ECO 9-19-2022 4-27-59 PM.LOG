@@ -1,0 +1,96 @@
+Added Component: Designator=J1(1935161)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1935161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 Pos Screw Terminal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-1667-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J3(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J4(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J5(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J6(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J7(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J8(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J9(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J10(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J11(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J12(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J13(TSW-101-17-G-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TSW-101-17-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 position connector header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "SAM1061-01-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Negative Pin=J1-2
+Added Pin To Net: NetName=Negative Pin=J2-1
+Added Pin To Net: NetName=Negative Pin=J3-1
+Added Pin To Net: NetName=Negative Pin=J4-1
+Added Pin To Net: NetName=Negative Pin=J5-1
+Added Pin To Net: NetName=Negative Pin=J6-1
+Added Pin To Net: NetName=Negative Pin=J7-1
+Added Net: Name=Negative
+Added Pin To Net: NetName=Positive Pin=J1-1
+Added Pin To Net: NetName=Positive Pin=J8-1
+Added Pin To Net: NetName=Positive Pin=J9-1
+Added Pin To Net: NetName=Positive Pin=J10-1
+Added Pin To Net: NetName=Positive Pin=J11-1
+Added Pin To Net: NetName=Positive Pin=J12-1
+Added Pin To Net: NetName=Positive Pin=J13-1
+Added Net: Name=Positive
+Added Class: Name=DTB217-AW1
+Added Room: Name=DTB217-AW1

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Ground Pin=J1-2
+Change Component Footprint: Designator=J1 Old Footprint=1935161 New Footprint=1844223
+Change Component Comment : Designator=J1 Old Comment=TERM BLK 2POS SIDE ENTRY 5MM PCB New Comment=1844223
+Change component parameters: Designator = "J1" ("J1"); Footprint = "1935161"; UniqueID = "\AWKJSMNQ" ("\AWKJSMNQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Ground Pin=J1-3
+Added Room: Name=DTB217-AW1
